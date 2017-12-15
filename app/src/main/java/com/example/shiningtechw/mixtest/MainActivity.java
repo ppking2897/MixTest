@@ -168,6 +168,7 @@ public class MainActivity extends AppCompatActivity {
         } catch (Exception e) {
             Log.v("ppking" , "Exception :  " +e.toString());
             e.printStackTrace();
+            
         }
     }
 
